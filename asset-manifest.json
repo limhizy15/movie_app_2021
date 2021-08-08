@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mive_app_2021/static/css/main.253b1573.chunk.css",
+    "main.js": "/mive_app_2021/static/js/main.63e8e5ee.chunk.js",
+    "main.js.map": "/mive_app_2021/static/js/main.63e8e5ee.chunk.js.map",
+    "runtime-main.js": "/mive_app_2021/static/js/runtime-main.4229cdea.js",
+    "runtime-main.js.map": "/mive_app_2021/static/js/runtime-main.4229cdea.js.map",
+    "static/js/2.3f89bcbe.chunk.js": "/mive_app_2021/static/js/2.3f89bcbe.chunk.js",
+    "static/js/2.3f89bcbe.chunk.js.map": "/mive_app_2021/static/js/2.3f89bcbe.chunk.js.map",
+    "index.html": "/mive_app_2021/index.html",
+    "static/css/main.253b1573.chunk.css.map": "/mive_app_2021/static/css/main.253b1573.chunk.css.map",
+    "static/js/2.3f89bcbe.chunk.js.LICENSE.txt": "/mive_app_2021/static/js/2.3f89bcbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4229cdea.js",
+    "static/js/2.3f89bcbe.chunk.js",
+    "static/css/main.253b1573.chunk.css",
+    "static/js/main.63e8e5ee.chunk.js"
+  ]
+}
